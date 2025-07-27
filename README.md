@@ -39,8 +39,13 @@ Lightweight and deployable on any system
  best_model.pkl        # Trained ML model (saved with joblib)
  sample_input.csv      # Optional: Example input for batch predictions
  README.md             # Project overview and usage guide
+ 
 
+## project repository
 
+Explore the full code and files here:  
+ [GitHub Repository](https://github.com/Praveenpdp/salary---classification---application)
+ 
 ---
 
  Technologies Used
@@ -109,9 +114,6 @@ python run_with_ngrok.py
 
 4. Open the public link shown by ngrok to access the app from anywhere.
 
-
-
-
 ---
 
  Screenshots
@@ -130,25 +132,26 @@ Batch Upload feature
 
  Prediction Output
 
- ![Result](prediction_result.png)
+ ![Result](prediction_result.png) 
 
+ webinterface public link 
+
+ http://10.115.33.176:8501
 
 ---
 
  Dataset
 
 Used a salary prediction dataset based on the UCI Adult Income Dataset.
-Dataset link: https://archive.ics.uci.edu/ml/datasets/adult
-
+Dataset link: "C:\Users\prave\Downloads\adult 3.csv"
 
 ---
 
 👤 Author
 
 Purna Durga Praveen
- [Optional: your email or LinkedIn]
- GitHub: https://github.com/purnadurga-praveen
-
+ email : doddi.purnadurgapraveen@gmail.com
+ GitHub: https://github.com/Praveenpdp
 
 ---
 
@@ -163,8 +166,6 @@ https://scikit-learn.org
 https://pandas.pydata.org
 
 https://archive.ics.uci.edu/ml/datasets/adult
-
-
 
 ---
 
